@@ -9,7 +9,7 @@ use only super user
 
 To login to the tool, first message me on Instagram.
 # tool size 25 GB 
-full Framework 25 GB new hacking machine install
+full Framework 25 GB mini framework 15 GB
 # completely free
 android Linux windows 
 # all device easy to use
