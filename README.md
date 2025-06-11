@@ -6,7 +6,7 @@
 use only super user 
 
 # DOWNLOAD FREE 
-git clone https://github.com/HkPrashant/Hk-Prashant-/blob/main/README.md
+https://github.com/HkPrashant/Hk-Prashant-/blob/main/README.md
 # unlock 🔓 Tools 
 To login to the tool, first message me on Instagram.
 # tool size 25 GB M 15gb
