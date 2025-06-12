@@ -9,6 +9,8 @@ use only super user install manually
 https://github.com/HkPrashant/Hk-Prashant-/blob/main/
 # lock 🔓 Tools 
 tool access key , hello key message me on Instagram
+# insta link 
+https://www.instagram.com/hk.prashant_singh
 # tool size 25 GB M 15gb
 full Framework 25 GB mini framework 15 GB
 # completely free
