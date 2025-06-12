@@ -1,7 +1,7 @@
 # Hk Prashant 
 # root 2.0
 
-# MY MENU TOOLS 
+# MY MENU 
 
 use only super user install manually
 
