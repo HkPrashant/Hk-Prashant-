@@ -3,7 +3,7 @@
 
 # MY MENU TOOLS 
 
-use only super user 
+use only super user install manually
 
 # DOWNLOAD FREE 
 https://github.com/HkPrashant/Hk-Prashant-/blob/main/README.md
