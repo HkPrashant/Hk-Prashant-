@@ -6,7 +6,7 @@
 use only super user install manually
 
 # DOWNLOAD FREE 
-# https://github.com/HkPrashant/Hk-Prashant-.git
+https://github.com/HkPrashant/Hk-Prashant-.git
 # lock 🔓 Tools 
 tool access key , hello key message me on Instagram
 # insta link 
